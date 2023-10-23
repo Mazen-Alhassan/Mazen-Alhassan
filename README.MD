@@ -24,7 +24,7 @@
 
 🤔 I’m looking for help with guidance on entry-level job opportunities in the IT and cybersecurity sectors, as well as mentorship to accelerate my career growth.
 
-💬 Ask me about network security, information technology, and how to kickstart a career in IT.
+💬 I'm eager to learn more about network security, information technology, and how to kickstart a career in IT.
 
 📫 How to reach me: Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
