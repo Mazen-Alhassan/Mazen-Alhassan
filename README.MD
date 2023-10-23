@@ -16,9 +16,6 @@
 <h2> 🤳 About me! :</h2>
 
 
-
-[instagram]: https://www.instagram.com/malha.ott/
-
 🔭 I’m currently working on obtaining my degree in Information Technology with a focus on Network Security.
 
 🌱 I’m currently learning the fundamentals of cybersecurity, network protocols, and security best practices to prepare for a successful career in the field.
