@@ -32,5 +32,5 @@
 
 Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
-https://www.instagram.com/malha.ott/
+Also feel free to reach out to me using instagram https://www.instagram.com/malha.ott/
 
