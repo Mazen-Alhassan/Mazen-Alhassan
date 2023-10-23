@@ -31,7 +31,7 @@
 
 📫 How to reach me: Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
-<h2>How to contact me </h2>
+<h2> 📞How to contact me : </h2>
 
 Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
