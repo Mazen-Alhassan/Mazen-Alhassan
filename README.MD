@@ -1,4 +1,4 @@
-<h1> Hi, I'm Mazen! <br/><a href="https://github.com/MazenAlhassan1">Programmer</a>, <a href="https://www.linkedin.com/in/MazenAlhassan/">Cybersecurity</a></h1>
+<h1> Hi, I'm Mazen! <br/><a href="https://github.com/MazenAlhassan1">Programmer</a>, <a href="https://www.linkedin.com/in/MazenAlhassan/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
