@@ -26,7 +26,6 @@
 
 💬 I'm eager to learn more about network security, information technology, and how to kickstart a career in IT.
 
-📫 How to reach me: Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
 <h2> 📞 How to contact me : </h2>
 
