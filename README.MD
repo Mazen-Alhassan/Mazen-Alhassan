@@ -31,5 +31,5 @@
 
 Feel free to contact me via email at mazen.alhassann@gmail.com for networking or collaboration opportunities.
 
-Also feel free to reach out to me using instagram https://www.instagram.com/ma.alha_.
+Also feel free to reach out to me using instagram https://www.instagram.com/ma.alha_
 
