@@ -43,6 +43,3 @@ Attack-path visualization and threat modeling using the MITRE ATT&CK framework.
 `Python` `C/C++` `Linux` `Git` `Docker` `eBPF` `SIEM` `Static Analysis` `Networking` `Machine Learning`
 
 ---
-
-**Honeywell Aerospace** · Cybersecurity & AI Intern  
-**Carleton University** · B.I.T. Information Technology · 2027
