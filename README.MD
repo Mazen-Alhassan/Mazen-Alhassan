@@ -1,2 +1,2 @@
 # About Me:
-Cybersecurity Intern @ Honeywell Aerospace
+Security Engineering @ Honeywell Aerospace
