@@ -6,8 +6,6 @@ Cybersecurity Engineering Intern at **Honeywell Aerospace** · B.I.T. Informatio
 
 I build security tooling, research vulnerabilities, and work across application, system, network, and AI security.
 
-[GitHub](https://github.com/Mazen-Alhassan)
-
 ---
 
 ## Security Projects
@@ -20,9 +18,6 @@ Linux container escape detection using eBPF, runtime telemetry, and kernel-level
 
 **[CANShield](https://github.com/Mazen-Alhassan/CANShield)**  
 Automotive security research and CAN-bus attack detection in C++.
-
-**[blacklight](https://github.com/Mazen-Alhassan/blacklight)**  
-Detection engineering lab for validating Sigma rules against attack telemetry.
 
 **[Azure-SIEM](https://github.com/Mazen-Alhassan/Azure-SIEM)**  
 Security monitoring and threat investigation pipeline built with Microsoft Sentinel and Windows telemetry.
